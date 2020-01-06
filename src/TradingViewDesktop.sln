@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28606.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingViewDesktop", "TradingViewDesktop\TradingViewDesktop.csproj", "{C2F9B6F9-050A-466A-B7E2-5F6C36BB5475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2F9B6F9-050A-466A-B7E2-5F6C36BB5475}.Debug|x64.ActiveCfg = Debug|x64
+		{C2F9B6F9-050A-466A-B7E2-5F6C36BB5475}.Debug|x64.Build.0 = Debug|x64
+		{C2F9B6F9-050A-466A-B7E2-5F6C36BB5475}.Debug|x86.ActiveCfg = Debug|x86
+		{C2F9B6F9-050A-466A-B7E2-5F6C36BB5475}.Debug|x86.Build.0 = Debug|x86
+		{C2F9B6F9-050A-466A-B7E2-5F6C36BB5475}.Release|x64.ActiveCfg = Release|x64
+		{C2F9B6F9-050A-466A-B7E2-5F6C36BB5475}.Release|x64.Build.0 = Release|x64
+		{C2F9B6F9-050A-466A-B7E2-5F6C36BB5475}.Release|x86.ActiveCfg = Release|x86
+		{C2F9B6F9-050A-466A-B7E2-5F6C36BB5475}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E85D759-AB1E-4516-93A1-6712AD56ED95}
+	EndGlobalSection
+EndGlobal
